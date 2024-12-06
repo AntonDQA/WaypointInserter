@@ -24,7 +24,7 @@ And here is the video how it affects navigation. Left side - BEFORE gpx file, na
 
 Feel free to check the Video (same steps recorded):
 
-![WaypointsInserter Usage Video](WaypointsInserter usage.mov)
+[Download and watch the WaypointsInserter Usage Video](WaypointsInserter%20usage.mov)
 
 **NOTE:** You can change the Step variable to regulate the amount of WPTs you need. By default, it's **50m**, which means - the app will add WPTs for each **50m**. If it's too much for your purposes - you can change it to 100m, or if you'll need more waypoints (for a lower Puck's speed) - use 20 / 10m. The Step variable is present on line #4 of _main.swift_ file.
 
